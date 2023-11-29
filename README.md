@@ -26,7 +26,8 @@ print(sol)
 
 ```
 ## Output:
-![Alt text](<Screenshot 2023-11-29 172924.png>)
+![Screenshot 2023-11-29 172924](https://github.com/Dharanya2005/RANK-OF-A-MATRIX/assets/145742468/173102dc-c123-47be-92b8-10414253cbba)
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
